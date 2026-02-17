@@ -1,4 +1,4 @@
-!name = yushi rule 
+#!name = yushi rule 
 #!desc = 包含常见广告域名规则 + 部分隐私追踪屏蔽
 #!system = mac,ios
 [Rule]
