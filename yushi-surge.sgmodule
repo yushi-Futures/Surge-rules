@@ -1,3 +1,6 @@
+!name = yushi rule 
+#!desc = 包含常见广告域名规则 + 部分隐私追踪屏蔽
+#!system = mac,ios
 [Rule]
 DOMAIN-SUFFIX,18comic.vip,🇭🇰 香港 04
 DOMAIN-SUFFIX,isafepal.com,🇯🇵 日本 04
