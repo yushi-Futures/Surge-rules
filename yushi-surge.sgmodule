@@ -1,6 +1,5 @@
-#!name = yushi rule 
-#!desc = 包含常见广告域名规则 + 部分隐私追踪屏蔽
-#!system = mac,ios
+#!name = yushi rule
+
 [Rule]
 DOMAIN-SUFFIX,18comic.vip,🇭🇰 香港 04
 DOMAIN-SUFFIX,isafepal.com,🇯🇵 日本 04
@@ -17,4 +16,4 @@ DOMAIN-KEYWORD,tt.com,DIRECT
 DOMAIN-KEYWORD,qq.com,DIRECT
 # 微信 （不走直连发不了图片）
 FINAL,🇯🇵 日本 04
-# 最后别忘加 FINAL,DIRECT（或你的默认策略)
+# 最后别忘加 FINAL,DIRECT（或你的默认策略）
