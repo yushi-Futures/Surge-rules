@@ -7,8 +7,13 @@ DOMAIN-SUFFIX,hyperliquid.xyz,🇯🇵 日本 04
 DOMAIN-SUFFIX,rabby.io,🇯🇵 日本 04
 DOMAIN-SUFFIX,grok.com,🇯🇵 日本 04
 # x平台静态IP
-DOMAIN-SUFFIX,twitter.com,日本 ip静态
+DOMAIN-SUFFIX,twitter.com, 日本 ip静态
 DOMAIN-SUFFIX,X.COM,日本 ip静态
+
+#------------------------------------
+
+
+DOMAIN-KEYWORD,bilibili.com,DIRECT
 DOMAIN-KEYWORD,douyinstatic.com,DIRECT
 DOMAIN-KEYWORD,douyinpic.com,DIRECT
 # 抖音app走国内直连
