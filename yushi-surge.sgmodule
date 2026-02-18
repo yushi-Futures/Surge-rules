@@ -1,11 +1,11 @@
-#!name = yushi rule
+#!name = yushi rule Fly
 
 [Rule]
-DOMAIN-SUFFIX,18comic.vip,🇭🇰 香港 04
-DOMAIN-SUFFIX,isafepal.com,🇯🇵 日本 04
-DOMAIN-SUFFIX,hyperliquid.xyz,🇯🇵 日本 04
-DOMAIN-SUFFIX,rabby.io,🇯🇵 日本 04
-DOMAIN-SUFFIX,grok.com,🇯🇵 日本 04
+DOMAIN-SUFFIX,18comic.vip,[SS] Japan-03
+DOMAIN-SUFFIX,isafepal.com,[SS] Japan-03
+DOMAIN-SUFFIX,hyperliquid.xyz,[SS] Japan-03
+DOMAIN-SUFFIX,rabby.io,[SS] Japan-03
+DOMAIN-SUFFIX,grok.com,[SS] Japan-03
 DOMAIN-SUFFIX,twitter.com,🇯🇵 日本 04
 DOMAIN-KEYWORD,douyinstatic.com,DIRECT
 DOMAIN-KEYWORD,douyinpic.com,DIRECT
@@ -15,5 +15,5 @@ DOMAIN-KEYWORD,tt.com,DIRECT
 # TT语音走直连
 DOMAIN-KEYWORD,qq.com,DIRECT
 # 微信 （不走直连发不了图片）
-FINAL,🇯🇵 日本 04
+FINAL,[SS] Japan-03
 # 最后别忘加 FINAL,DIRECT（或你的默认策略）
