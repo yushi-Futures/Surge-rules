@@ -18,7 +18,7 @@ DOMAIN-KEYWORD,douyinstatic.com,DIRECT
 DOMAIN-KEYWORD,douyinpic.com,DIRECT
 # 抖音app走国内直连
 DOMAIN-KEYWORD,ttyuyin.com,DIRECT
-DOMAIN-KEYWORD,tt.com,DIRECT，
+DOMAIN-KEYWORD,tt.com,DIRECT
 # TT语音走直连
 DOMAIN-KEYWORD,qq.com,DIRECT
 # 微信 （不走直连发不了图片）
