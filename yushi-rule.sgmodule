@@ -1,4 +1,4 @@
-#!name = yushi rule
+#!name = yushi Personal Rule
 
 [Rule]
 DOMAIN-SUFFIX,18comic.vip,🇭🇰 香港 04
@@ -10,7 +10,8 @@ DOMAIN-SUFFIX,grok.com,🇯🇵 日本 04
 DOMAIN-SUFFIX,twitter.com,🇯🇵 日本 04
 DOMAIN-SUFFIX,X.COM,🇯🇵 日本 04
 
-#------------------------------------
+# ==================== Deribit 核心域名 ====================
+DOMAIN-KEYWORD,deribit.com,🇨🇳 台湾 04
 
 
 DOMAIN-KEYWORD,bilibili.com,DIRECT
