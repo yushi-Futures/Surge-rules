@@ -1,6 +1,10 @@
 #!name = yushi Personal Rule
 
 [Rule]
+# ==================== iCloud 邮件发送 ====================
+DOMAIN,smtp.mail.me.com,DIRECT
+DOMAIN-SUFFIX,mail.me.com,DIRECT   # 覆盖可能的变体
+
 DOMAIN-SUFFIX,18comic.vip,🇭🇰 香港 04
 DOMAIN-SUFFIX,isafepal.com,🇯🇵 日本 04
 DOMAIN-SUFFIX,hyperliquid.xyz,🇯🇵 日本 04
