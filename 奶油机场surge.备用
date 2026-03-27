@@ -5,19 +5,19 @@
 DOMAIN,smtp.mail.me.com,DIRECT
 DOMAIN-SUFFIX,mail.me.com,DIRECT   # 覆盖可能的变体
 
-DOMAIN-SUFFIX,18comic.vip,🇭🇰 HK | 香港 04
-DOMAIN-SUFFIX,isafepal.com,🇯🇵 JP | 日本 04
-DOMAIN-SUFFIX,hyperliquid.xyz,🇯🇵 JP | 日本 04
-DOMAIN-SUFFIX,rabby.io,🇯🇵 JP | 日本 04
-DOMAIN-SUFFIX,grok.com,🇯🇵 JP | 日本 04
+DOMAIN-SUFFIX,18comic.vip,香港 04
+DOMAIN-SUFFIX,isafepal.com,日本 04
+DOMAIN-SUFFIX,hyperliquid.xyz日本 04
+DOMAIN-SUFFIX,rabby.io,日本 04
+DOMAIN-SUFFIX,grok.com,日本 04
 # x平台静态IP 停用
-DOMAIN-SUFFIX,twitter.com,🇯🇵 JP | 日本 04
-DOMAIN-SUFFIX,X.COM,🇯🇵 JP | 日本 04
+DOMAIN-SUFFIX,twitter.com,日本 04
+DOMAIN-SUFFIX,X.COM,日本 04
 
 # ==================== Deribit 核心域名 ====================
-DOMAIN-KEYWORD,deribit,🇨🇳 TW | 台湾 04
+DOMAIN-KEYWORD,deribit,台湾 04
 # ==================== Bybit 核心域名 ====================
-DOMAIN-KEYWORD,bybit,🇨🇳 TW | 台湾 04
+DOMAIN-KEYWORD,bybit,台湾 04
 
 
 DOMAIN-KEYWORD,bilibili.com,DIRECT
